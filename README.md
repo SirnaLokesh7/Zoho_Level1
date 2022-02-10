@@ -2,7 +2,7 @@
 Language Used:JAVA
 implemented by using Generic Tree
 Solution by me for the Zoho Level 1 Technical Assessment
-A.You have to Enter the Name of The Role which is at the top of the Hierarchy.Then it  will ask you to enter number of operations give an integer value for it(100)
+A.You have to Enter the Name of The Role which is at the top of the Hierarchy.
 B.Now you have to Enter your option(integer between 1 and 10 inclusive)
 1.Add a subRole to the Hierarchy
 -->You have to Enter the name of the subRole 
