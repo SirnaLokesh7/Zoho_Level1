@@ -487,8 +487,8 @@ public class ZohoExam
 		Scanner scan=new Scanner(System.in);
 		createRoot();
 		int option,n;
-		System.out.println("Enter Number of Operations");
-		n=scan.nextInt();
+//		System.out.println("Enter Number of Operations");
+		n=1000;
 		for(int i=0;i<n;i++)
 		{
 			System.out.println("Enter Your Option");
@@ -565,4 +565,5 @@ public class ZohoExam
 		}
 	}
 }
+
 
