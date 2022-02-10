@@ -29,5 +29,5 @@ B.Now you have to Enter your option(integer between 1 and 10 inclusive)
 10.Commonboss
 -->Enter the userName1
 -->Enter the userName2
--->Program will return the nearest CommonBoss for userName1 and UserName2(Lowest Common Ancestor)
+-->Program will return the nearest CommonBoss for userName1 and UserName2(Lowest Common Ancestor).
 
