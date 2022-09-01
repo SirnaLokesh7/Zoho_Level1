@@ -1,7 +1,7 @@
 
 Language Used:JAVA <br>
 implemented by using Generic Tree <br>
-Solution by me for the Zoho Level 1 Technical Assessment <br>
+Solution by Lokesh Sirna <br>
 A.You have to Enter the Name of The Role which is at the top of the Hierarchy. <br>
 B.Now you have to Enter your option(integer between 1 and 10 inclusive) <br>
 1.Add a subRole to the Hierarchy <br>
